@@ -49,4 +49,7 @@ Table 3: Predicted missing glucose values.
 # Conclusion 
 Seeing as substituting missing values with zeros can result in skewed and erroneous estimations of statistical parameters and a loss of statistical power, dealing with the problem of missing data is crucial to ensuring the validity and reliability of statistical studies. R, a popular programming language, is one tool for dealing with missing data that often involves replacing zeros with NaN.  Before running statistical studies to compare components, it is crucial to evaluate the normalcy assumption of the data. The Mann-Whitney U test was used to compare the distribution of variables in people with and without diabetes, which is a non-parametric test that is recommended when the normality assumption is violated. This study found statistically significant differences in distributions between the two groups. Logistic regression research also found that glucose, body mass index, diabetes pedigree function, and age were all significant predictors of diabetes outcome. In order to improve clinical decision-making and patient care, a linear regression model was created to predict missing Glucose levels based on Age.
 
+<img width="886" alt="Screenshot 2025-07-10 at 07 02 44" src="https://github.com/user-attachments/assets/1f46f00b-33f7-485e-89b4-38d288faa5b6" />
+<img width="886" alt="Screenshot 2025-07-10 at 07 02 31" src="https://github.com/user-attachments/assets/64804fb0-56e2-4d2d-b7cc-d885b32be918" />
+
 
