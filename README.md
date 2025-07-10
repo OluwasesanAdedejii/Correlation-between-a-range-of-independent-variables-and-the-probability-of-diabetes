@@ -1,4 +1,7 @@
 # Correlation Between independent-variables and probability of diabetes
+![diabetes type 1 children hero](https://github.com/user-attachments/assets/8652a1fd-0e09-4be8-9be0-255590a0ee2e)
+
+
 
 To identify the significant predictors, logistic regression analysis was applied, revealing that Glucose, BMI, Diabetes Pedigree Function, and Age were the most relevant factors. Furthermore, a linear regression model was employed to predict missing Glucose values based on Age, offering valuable insights into patient care and risk assessment. Overall, these findings highlight the potential of these predictors in identifying high-risk individuals and improving patient care.
 
