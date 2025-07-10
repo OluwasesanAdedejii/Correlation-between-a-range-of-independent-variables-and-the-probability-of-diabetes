@@ -1,0 +1,1 @@
+# Correlation-between-a-range-of-independent-variables-and-the-probability-of-diabetes
